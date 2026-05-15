@@ -1,0 +1,99 @@
+{
+  "sites": [
+    {
+      "name": "A片｜155",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜雞坤",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜森林",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜辣椒",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜奧斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜樂播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜奶香",
+      "type": 1,
+      "api": "https://Naixxzy.com/api.php/provide/vod/"
+    },
+        {
+      "name": "A片｜CK資源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/"
+    },
+    {
+      "name": "影視｜櫻花資源網",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "影視｜艾旦",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/"
+    },
+    {
+      "name": "影視｜速博資源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/"
+    },
+    {
+      "name": "影視｜無盡",
+      "type": 1,
+      "api": "https://api.wujinapi.net/api.php/provide/vod/"
+    },
+    {
+      "name": "影視｜光速",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "樂播資源************",
+      "type": 1,
+      "api": "https://lbapo9.com/api.php/provide/vod/at/json"
+    },
+    {
+      "name": "滴滴**********",
+      "type": 1,
+      "api": "https://api.ddapi.com/api.php/provide/vod/"
+    },
+        {
+      "name": "老色逼*********",
+      "type": 1,
+      "api": "https://apilsbzu1.com/api.php/provide/vod/"
+    },
+        {
+      "name": "A片｜鯊魚***",
+      "type": 1,
+      "api": "https://shayuapi.com/apo.php/provide/vod/"
+    },
+    {
+      "name": "臥龍資源**********",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
+    }
+  ]
+}
