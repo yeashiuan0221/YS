@@ -35,10 +35,25 @@
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/"
     },
-        {
+     {
       "name": "A片｜CK資源",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/"
+    },
+     {
+      "name": "A片｜滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜老色逼",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/"
+    },
+    {
+      "name": "A片｜鯊魚",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/"
     },
     {
       "name": "A片｜玉兔",
@@ -46,7 +61,12 @@
       "api": "https://apiyutu.com/api.php/provide/vod/"
     },
     {
-      "name": "影視｜櫻花資源網",
+      "name": "A片｜樂播資源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json"
+    },
+    {
+      "name": "影視｜櫻花",
       "type": 1,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
     },
@@ -56,7 +76,7 @@
       "api": "https://lovedan.net/api.php/provide/vod/"
     },
     {
-      "name": "影視｜速博資源",
+      "name": "影視｜速博",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/"
     },
@@ -66,29 +86,34 @@
       "api": "https://api.wujinapi.net/api.php/provide/vod/"
     },
     {
+      "name": "影視｜金鷹",
+      "type": 1,
+      "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8/"
+    },
+    {
       "name": "影視｜光速",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/"
     },
     {
-      "name": "樂播資源************",
+      "name": "影視｜閃電",
       "type": 1,
-      "api": "https://lbapo9.com/api.php/provide/vod/at/json"
+      "api": "https://sdzyapi.com/api.php/provide/vod/"
     },
     {
-      "name": "滴滴**********",
+      "name": "影視｜百度",
       "type": 1,
-      "api": "https://api.ddapi.com/api.php/provide/vod/"
+      "api": "https://api.apibdzy.com/api.php/provide/vod/"
     },
-        {
-      "name": "老色逼*********",
+    {
+      "name": "影視｜牛牛",
       "type": 1,
-      "api": "https://apilsbzu1.com/api.php/provide/vod/"
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
-        {
-      "name": "A片｜鯊魚***",
+    {
+      "name": "影視｜女孩",
       "type": 1,
-      "api": "https://shayuapi.com/apo.php/provide/vod/"
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
     {
       "name": "臥龍資源**********",
