@@ -1,4 +1,5 @@
-[
+{
+    "sites": [
 	{"name": "A片∥小貓咪","api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"},
     {"name": "A片∥精品","api": "https://www.jingpinx.com/api.php/provide/vod/"},
     {"name": "A片∥番號","api": "http://fhapi9.com/api.php/provide/vod/"},
@@ -17,4 +18,5 @@
     {"name": "A片∥玉兔","api": "https://apiyutu.com/api.php/provide/vod/"},
     {"name": "A片∥AIvin","api": "http://lbapiby.com/api.php/provide/vod/at/json/"},
     {"name": "A片∥麻豆","api": "http://www.madouse.la/api.php/provide/vod/"}
-]
+    ]
+}
