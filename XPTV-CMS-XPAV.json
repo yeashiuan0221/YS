@@ -1,20 +1,22 @@
 {
     "sites": [
-        { "name": "森林资源|AV", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
-        { "name": "探探资源|AV", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/" },
-        { "name": "奥斯卡资源|AV", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
-        { "name": "老鸭资源|AV", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/" },
-        { "name": "91麻豆|AV", "type": 1, "api": "https://91md.me/api.php/provide/vod/" },
-        { "name": "易看资源|AV", "type": 1, "api": "https://api.yikanapi.com/api.php/provide/vod/" },
-        { "name": "番号资源|AV", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/" },
-        { "name": "鲨鱼资源|AV", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/" },
-        { "name": "AIvin|AV", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json" },
-        { "name": "黄瓜资源|AV", "type": 1, "api": "https://www.zy018.com/api.php/provide/vod/" },
-        { "name": "玉兔资源|AV", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/" },
-        { "name": "辣椒资源|AV", "type": 1, "api": "https://apilj.com/api.php/provide/vod/" },
-        { "name": "奶香香|AV", "type": 1, "api": "https://Naixxzy.com/api.php/provide/vod/" },
-        { "name": "精品资源|AV", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
-        { "name": "草榴资源|AV", "type": 1, "api": "https://www.caoliuzyw.com/api.php/prodao/vod/" },
-        { "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" }
+        { "name": "A片∥小貓咪", "type": 1, "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/" },
+        { "name": "A片∥精品", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
+        { "name": "A片∥番號", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/" },
+        { "name": "A片∥樂播", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/at/json/" },
+        { "name": "A片∥樂播備用", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/" },
+        { "name": "A片∥155", "type": 1, "api": "https://155api.com/api.php/provide/vod/" },
+        { "name": "A片∥雞坤", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/" },
+        { "name": "A片∥森林", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
+        { "name": "A片∥辣椒", "type": 1, "api": "https://apilj.com/api.php/provide/vod/" },
+        { "name": "A片∥奧斯卡", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
+        { "name": "A片∥奶香香", "type": 1, "api": "https://Naixxzy.com/api.php/provide/vod/" },
+        { "name": "A片∥CK資源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod/" },
+        { "name": "A片∥滴滴", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod/" },
+        { "name": "A片∥老色逼", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" },
+        { "name": "A片∥鯊魚", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/" },
+        { "name": "A片∥玉兔", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/" },
+        { "name": "A片∥AIvin", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json/" },
+        { "name": "A片∥麻豆", "type": 1, "api": "http://www.madouse.la/api.php/provide/vod/" }
     ]
 }
