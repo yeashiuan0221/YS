@@ -32,7 +32,6 @@
     { "name": "影視∥虎牙","api": "https://www.huyaapi.com/api.php/provide/vod/" },
     { "name": "影視∥新浪","api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/" },
     { "name": "影視∥愛坤","api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/" },
-    { "name": "影視∥百度","api": "https://api.apibdzy.com/api.php/provide/vod/" },
     { "name": "影視∥步步高","api": "https://api.yparse.com/api/json/" },
     { "name": "影視∥最大","api": "https://api.zuidapi.com/api.php/provide/vod/" },
     { "name": "影視∥映迷","api": "https://www.inmi.app/api.php/provide/vod/" },
