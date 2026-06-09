@@ -6,6 +6,7 @@
     { "name": "影視∥無盡me","api": "https://api.wujinapi.me/api.php/provide/vod/" },
     { "name": "影視∥無盡com","api": "https://api.wujinapi.com/api.php/provide/vod/" },
     { "name": "影視∥金鷹","api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/" },
+    {"name": "影視∥金鷹2","api": "https://jinyingzy.com/provide/vod/"},
     { "name": "影視∥光速","api": "https://api.guangsuapi.com/api.php/provide/vod/" },
     { "name": "影視∥光速備用1","api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/" },
     { "name": "影視∥閃電sdzyapi","api": "https://sdzyapi.com/api.php/provide/vod/" },
