@@ -41,7 +41,7 @@
         {"name": "影視∥闪电","api": "http://sdzyapi.com/api.php/provide/vod/"},
         {"name": "影視∥新浪","api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
         {"name": "影視∥豆瓣","api": "https://caiji.dbzy5.com/api.php/provide/vod/at/json/"},
-	{"name": "A片∥"91麻豆","api": "https://91md.me/api.php/provide/vod/"},
+	{"name": "A片∥91麻豆","api": "https://91md.me/api.php/provide/vod/"},
 	{"name": "A片∥91md","api": "https://91md.me/api.php/provide/vod/from/mdm3u8/"},
 	{"name": "A片∥番號","api": "http://fhapi9.com/api.php/provide/vod/"},
         {"name": "A片∥精品","api": "https://www.jingpinx.com/api.php/provide/vod/"},
