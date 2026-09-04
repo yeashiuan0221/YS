@@ -16,5 +16,7 @@
         {"name": "A片∥鯊魚","api": "https://shayuapi.com/api.php/provide/vod/"},
         {"name": "A片∥玉兔","api": "https://apiyutu.com/api.php/provide/vod/"},
         {"name": "A片∥AIvin","api": "http://lbapiby.com/api.php/provide/vod/at/json/"},
+        {"name": "A片∥91麻豆","api": "https://91md.me/api.php/provide/vod/"},
+        {"name": "A片∥91麻豆備用","api": "https://91md.me/api.php/provide/vod/from/mdm3u8/"},
         {"name": "A片∥麻豆","api": "http://www.madouse.la/api.php/provide/vod/"}
     ]
